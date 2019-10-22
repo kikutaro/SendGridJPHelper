@@ -1,0 +1,2 @@
+# SendGridJPHelper
+SendGridの画面に合わせて日本語ドキュメントを表示してくれる拡張機能です。
