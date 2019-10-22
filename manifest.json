@@ -1,0 +1,14 @@
+{
+    "name": "SendGrid JP Helper",
+    "version": "0.1",
+    "description": "SendGridの画面に合わせて日本語ドキュメントを表示してくれる拡張機能です。",
+    "permissions" : ["tabs"],
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "icons": { 
+        "16": "icon16.png",
+        "48": "icon48.png",
+       "128": "icon128.png" },
+    "manifest_version": 2
+}
